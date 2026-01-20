@@ -22,7 +22,7 @@ jobs:
       - name: Download Large File
         run: |
           # Replace with your URL and desired filename
-          curl -L -o "Avatar Fire and Ash 2025 HiN ENG 720p HDRip x264 AAC Origina.mkv" "https://file-to-link-x-c97f657694b4.herokuapp.com/dl/696f7cafbaead7f84f756ea2"
+          curl -L -o "Avatar Fire and Ash 2025 Hindi HDTS 480p x264 AVC HE-AAC 2.0.mkv" "https://file-to-link-x-c97f657694b4.herokuapp.com/dl/696f86e5baead7f84f756f67"
 
       - name: Commit and Push to LFS
         run: |
